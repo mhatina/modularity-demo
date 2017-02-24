@@ -1,6 +1,6 @@
 Name:      module_httpd-2.2
 Version:   2.2
-Release:   25
+Release:   1
 Summary:   module httpd-%{version}
 License:   GPLv2+
 BuildArch: noarch
