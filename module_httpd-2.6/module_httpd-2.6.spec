@@ -6,7 +6,7 @@ License:   GPLv2+
 BuildArch: noarch
 
 Provides: module_httpd = %{version}
-Requires: package_httpd = 2.6
+Requires: package_httpd = %{version}-%{release}
 
 %description
 %{summary}
